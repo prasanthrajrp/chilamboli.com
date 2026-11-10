@@ -1,30 +1,29 @@
-CHILAMBOLI DANCE ACADEMY — WEBSITE DEMO
-========================================
+CHILAMBOLI DANCE ACADEMY — PREMIUM CLASSICAL WEBSITE
+=====================================================
 
 Five responsive pages:
-- index.html — Home
-- about.html — Our Story
-- courses.html — Dance Forms
-- gallery.html — Gallery
-- contact.html — Contact / enquiry
+1. index.html — Premium home page with classical dance focus and World Book of Records feature
+2. about.html — Academy story and founder Kavitha S.
+3. courses.html — Classical dance courses only (Bharatanatyam, Mohiniyattam, Kuchipudi, Odissi, Kathak, Kerala folk arts)
+4. gallery.html — Academy-supplied dance photographs and recognition feature
+5. contact.html — Phone, WhatsApp, email and enquiry form
 
-Assets:
-- assets/chilamboli-logo.jpg — cropped from the academy poster supplied by the client
-- assets/chilamboli-dancer.jpg — dancer portrait cropped from the supplied poster
-
-GITHUB PAGES DEPLOYMENT
-1. Upload the contents of this folder (not the enclosing folder) into the root of the public GitHub repository.
-2. Confirm index.html, style.css, script.js and assets/ are at repository root.
-3. Repository Settings > Pages > Deploy from a branch > main > /(root) > Save.
-
-CONTACT DETAILS INCLUDED
-WhatsApp / Phone: +91 94954 82422
+BRAND / CONTACT
+Academy: Chilamboli Dance Academy
+Founder: Kavitha S.
+Location shown on academy Instagram: Parassala, Thiruvananthapuram, Kerala
+Phone / WhatsApp: +91 94954 82422
 Email: kavitha@chilaboli.com
 Instagram: @chilamboli_dance_academy
 
-IMPORTANT BEFORE PRODUCTION
-- The uploaded poster was cropped to reuse the academy's logo and dancer photo. Confirm the academy has permission to use this photo.
-- Other dance photographs are demo stock images loaded from Unsplash and require replacement with academy-owned/licensed performance images for final launch.
-- Add the academy's actual YouTube performance video URL in the gallery.
-- The contact form currently opens the visitor's email app using mailto; connect a form service/backend for direct website submissions.
-- Confirm academy address, course availability, schedules, age groups, fees and instructor details before publishing as final information.
+IMAGES
+The supplied Instagram screenshots have been cropped to remove Instagram interface elements. The dancer and founder photographs themselves are kept authentic; their photographic backgrounds have not been AI-replaced, to avoid changing the founder's face or the wording on the World Book of Records certificate. The design uses premium dark, gold and traditional motifs around the genuine photographs. Use original full-resolution image files for professional background removal / compositing if the academy supplies them and confirms permission.
+
+GITHUB PAGES
+Upload the contents of this folder into repository root, replacing old files. Keep assets/ folder. Then Settings > Pages > Deploy from a branch > main > /(root).
+
+BEFORE PRODUCTION
+- Confirm permission to publish all dancer photographs and the founder recognition photo.
+- Confirm the exact World Book of Records record title/category before adding a detailed claim.
+- Confirm schedules, age groups, fees, teacher details and full postal address.
+- Contact form currently opens the visitor's email app (mailto); connect a form backend for direct submissions.
