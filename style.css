@@ -61,3 +61,12 @@ body{background:#100d0b;color:var(--cream)}
 .section-top{align-items:center}
 @media(max-width:850px){.discipline-wrap{grid-template-columns:1fr;padding:35px 7% 70px;gap:35px}.discipline-photo{position:relative;top:auto;height:min(115vw,560px);max-width:560px;width:100%;margin:auto}.course-intro{grid-template-columns:1fr;gap:12px;padding-top:60px;padding-bottom:40px}.discipline-grid{column-gap:22px}}
 @media(max-width:560px){.editorial-hero{min-height:390px;padding-top:78px;padding-bottom:65px}.hero-script{right:7%;bottom:5%;font-size:100px}.discipline-grid{grid-template-columns:1fr}.discipline-grid article{min-height:0;padding:23px 0}.photo-caption b{font-size:24px}.course-note{padding:65px 7%}}
+
+/* Academy photo strip on the Courses page */
+.academy-gallery{padding:76px 8% 90px;background:linear-gradient(145deg,#21170f 0%,#100d0a 72%);border-top:1px solid rgba(217,173,97,.18)}
+.academy-gallery-heading{margin-bottom:28px}.academy-gallery-heading h2{margin-top:10px}
+.academy-gallery-grid{display:grid;grid-template-columns:1.05fr 1fr 1fr;gap:18px}
+.academy-gallery-grid figure{margin:0;height:310px;overflow:hidden;background:#21170f;border:1px solid rgba(217,173,97,.32);padding:6px}
+.academy-gallery-grid img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 30%;filter:saturate(.92) contrast(1.03);transition:transform .5s}
+.academy-gallery-grid figure:hover img{transform:scale(1.035)}
+@media(max-width:700px){.academy-gallery{padding:60px 7%}.academy-gallery-grid{grid-template-columns:1fr 1fr}.academy-gallery-grid figure{height:230px}.academy-gallery-grid figure:last-child{display:none}}
